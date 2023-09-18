@@ -1,0 +1,35 @@
+.centrar {
+    text-align: right;
+
+
+}
+
+.fondo {
+    background-color: rgb(112, 16, 53);
+
+}
+
+img {
+    border: 1px solid black;
+}
+
+.centrar2 {
+    text-align: center;
+    border: 2px solid;
+}
+
+body {
+    background-color: black;
+
+}
+
+* {
+    font-family: sans-serif;
+    color: white;
+    height: auto;
+    width: auto;
+}
+
+button {
+    background-color: rgb(112, 16, 53)
+}
